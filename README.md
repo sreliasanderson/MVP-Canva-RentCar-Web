@@ -9,18 +9,18 @@ O projeto foi concebido utilizando práticas de Lean Inception e Scrum para defi
 
 Disponibilizar uma solução digital para que clientes possam consultar veículos disponíveis e realizar reservas online, enquanto administradores gerenciam a frota e as locações.
 
-##Backlog do MVP
-Gestão de Usuários
-Catálogo de Veículos
-Gestão de Reservas
-Gestão da Frota
-Plataforma Técnica
+##Backlog do MVP<br>
+Gestão de Usuários<br>
+Catálogo de Veículos<br>
+Gestão de Reservas<br>
+Gestão da Frota<br>
+Plataforma Técnica<br>
 
-##Metodologia
-Lean Inception
-Scrum
-Desenvolvimento Incremental
-MVP (Minimum Viable Product)
+##Metodologia<br>
+Lean Inception<br>
+Scrum<br>
+Desenvolvimento Incremental<br>
+MVP (Minimum Viable Product)<br>
 
-##Status
-Projeto em fase de definição e prototipação do MVP.
+##Status<br>
+Projeto em fase de definição e prototipação do MVP.<br>
